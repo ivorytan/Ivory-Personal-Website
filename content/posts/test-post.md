@@ -1,7 +1,45 @@
 ---
-title: "Test Post"
-date: 2023-01-08T22:25:15-05:00
+title: "如是我聞 —— 2022年小結"
+subtitle: "對於2022年度的總結，2023年再接再厲！"
+date: 2023-1-0921:57:40 +0800
+lastmod: 2023-1-0916:45:40 +0800
 draft: false
+description: ""
+license: ""
+images: []
+
+tags: [生活記錄, 年記]
+categories: [踏莎行]
+
+featuredImage: ""
+featuredImagePreview: "/post-images/white.jpg"
+
+hiddenFromHomePage: false
+hiddenFromSearch: false
+twemoji: true
+lightgallery: true
+ruby: true
+fraction: true
+fontawesome: true
+linkToMarkdown: true
+rssFullText: false
+
+toc:
+  enable: true
+  auto: true
+code:
+  copy: true
+  maxShownLines: 50
+math:
+  enable: true
+share:
+  enable: true
+comment:
+  enable: false
 ---
 
-### This is my first post for testing purpose!
+
+大家好yeah！這是我的第一篇博客。本INFJ今後就會通過這個小樹洞的渠道來跟大家説説話，分享生活以及記錄知識，感謝聆聽！😊
+
+
+<div align="center"><img src="/post-images/white.jpg" width="75%" height="75%"></div>
