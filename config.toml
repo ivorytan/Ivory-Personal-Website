@@ -11,7 +11,7 @@ languageCode = "en"
 # language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "English"
 # whether to include Chinese/Japanese/Korean
-hasCJKLanguage = false
+hasCJKLanguage = true
 
 # default amount of posts in each pages
 paginate = 12
@@ -183,9 +183,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = ""
+      gravatarEmail = "ivorymengjue@gmail.com"
       # URL of avatar shown in home page
-      avatarURL = "/avatar.png"
+      avatarURL = "/images/avatar.png"
       #  title shown in home page (HTML format is supported)
       title = "Ivory's Space"
       # subtitle shown in home page (HTML format is supported)
