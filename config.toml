@@ -94,9 +94,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = "Ivorrrry's Space"
+      name = "ivorrrry's"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = "<i class='cactus' aria-hidden='true'></i>"
+      pre = "<i class='fab fa-cactus fa-fw' aria-hidden='true'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       #  whether to use typeit animation for title name
@@ -208,7 +208,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Social config about the author
   [params.social]
     GitHub = "ivorytan"
-    Linkedin = "mengjue-tan-aa04401b7"
+    Linkedin = ""
     Twitter = "ivorytan2"
     Instagram = "ivorrrrry.t"
     Facebook = ""
@@ -234,7 +234,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Xing = ""
     Snapchat = ""
     Soundcloud = ""
-    Spotify = ""
+    Spotify = "31cdrxwp623l4pkrbhebhrahszle"
     Bandcamp = ""
     Paypal = ""
     Fivehundredpx = ""
