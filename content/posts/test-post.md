@@ -11,8 +11,8 @@ images: []
 tags: [生活記錄, 年記]
 categories: [踏莎行]
 
-featuredImage: ""
-featuredImagePreview: "/post-images/white.jpg"
+featuredImage: "/post-images/white.jpg"
+featuredImagePreview: ""
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -38,8 +38,15 @@ comment:
   enable: false
 ---
 
-
 大家好yeah！這是我的第一篇博客。本INFJ今後就會通過這個小樹洞的渠道來跟大家説説話，分享生活以及記錄知識，感謝聆聽！😊
 
+## 小记
 
-<div align="center"><img src="/post-images/white.jpg" width="75%" height="75%"></div>
+### 今日
+
+#### 我今天干了什么呢？
+
+##### 不知道
+
+##### 你好
+
