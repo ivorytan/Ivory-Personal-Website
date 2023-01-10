@@ -65,6 +65,15 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "分類"
     url = "/categories/"
     title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "關於"
+    url = "/about/"
+    title = ""
+  
 
 [params]
   # site default theme ["auto", "light", "dark"]
