@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>分類 - Category - Ivory | 大夢誰先覺</title>
+        <link>http://example.org/categories/</link>
+        <description>分類 - Category - Ivory | 大夢誰先覺</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>ivory-tan@outlook.com (ivorytan)</managingEditor>
+            <webMaster>ivory-tan@outlook.com (ivorytan)</webMaster><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>小重山</title>
+    <link>http://example.org/categories/%E5%B0%8F%E9%87%8D%E5%B1%B1/</link>
+    <pubDate>Sat, 03 Feb 2024 20:54:01 -0500</pubDate>
+    <author>ivorytan</author>
+    <guid>http://example.org/categories/%E5%B0%8F%E9%87%8D%E5%B1%B1/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>踏莎行</title>
+    <link>http://example.org/categories/%E8%B8%8F%E8%8E%8E%E8%A1%8C/</link>
+    <pubDate>Mon, 09 Jan 2023 02:16:40 -0500</pubDate>
+    <author>ivorytan</author>
+    <guid>http://example.org/categories/%E8%B8%8F%E8%8E%8E%E8%A1%8C/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

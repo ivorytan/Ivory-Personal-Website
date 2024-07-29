@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>小重山 - Category - Ivory | 大夢誰先覺</title>
+        <link>http://example.org/categories/%E5%B0%8F%E9%87%8D%E5%B1%B1/</link>
+        <description>小重山 - Category - Ivory | 大夢誰先覺</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>ivory-tan@outlook.com (ivorytan)</managingEditor>
+            <webMaster>ivory-tan@outlook.com (ivorytan)</webMaster><lastBuildDate>Sat, 03 Feb 2024 20:54:01 -0500</lastBuildDate><atom:link href="http://example.org/categories/%E5%B0%8F%E9%87%8D%E5%B1%B1/" rel="self" type="application/rss+xml" /><item>
+    <title>一月 ｜ Back to US</title>
+    <link>http://example.org/2024_0203_post/</link>
+    <pubDate>Sat, 03 Feb 2024 20:54:01 -0500</pubDate>
+    <author>ivorytan</author>
+    <guid>http://example.org/2024_0203_post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/post-images/sky.jpg" referrerpolicy="no-referrer">
+            </div>回到美国，回到熟悉的小巢✈️]]></description>
+</item>
+</channel>
+</rss>

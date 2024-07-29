@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All 文檔 - Ivory | 大夢誰先覺</title>
+        <link>http://example.org/posts/</link>
+        <description>All 文檔 | Ivory | 大夢誰先覺</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>ivory-tan@outlook.com (ivorytan)</managingEditor>
+            <webMaster>ivory-tan@outlook.com (ivorytan)</webMaster><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>一月 ｜ Back to US</title>
+    <link>http://example.org/2024_0203_post/</link>
+    <pubDate>Sat, 03 Feb 2024 20:54:01 -0500</pubDate>
+    <author>ivorytan</author>
+    <guid>http://example.org/2024_0203_post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/post-images/sky.jpg" referrerpolicy="no-referrer">
+            </div>回到美国，回到熟悉的小巢✈️]]></description>
+</item>
+<item>
+    <title>如是我聞 —— 2022年小結</title>
+    <link>http://example.org/test-post/</link>
+    <pubDate>Mon, 09 Jan 2023 02:16:40 -0500</pubDate>
+    <author>ivorytan</author>
+    <guid>http://example.org/test-post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/post-images/white.jpg" referrerpolicy="no-referrer">
+            </div>大家好yeah！這是我的第一篇博客。本INFJ今後就會通過這個小樹洞的渠道來跟大家説説話，分享生活以及記錄知識，感謝聆聽！😊 小记 今日 我今天干]]></description>
+</item>
+</channel>
+</rss>
